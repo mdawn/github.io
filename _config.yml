@@ -1,0 +1,29 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http:mistydawncarmichael.com
+title: Misty Dawn Carmichael
+email: mistydawncarmichael@gmail.com
+author: Misty Dawn
+description: > # "Something something something TODO"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/mersty_dern
+  - title: github
+    url: https://github.com/mdawn
+  - title: linkedin
+    url: https://www.linkedin.com/in/mistydc
