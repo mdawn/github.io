@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http:mistydawncarmichael.com
+url: "http://mistydawncarmichael.com"
 title: Misty Dawn Carmichael
 email: mistydawncarmichael@gmail.com
 author: Misty Dawn
-description: > # "Something something something TODO"
+description: > # "Misty Dawn Carmichael's professional portfolio"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
