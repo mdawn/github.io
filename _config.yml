@@ -6,7 +6,7 @@ url: "http://mistydawncarmichael.com"
 title: Misty Dawn Carmichael
 email: mistydawncarmichael@gmail.com
 author: Misty Dawn
-description: > # "Misty Dawn Carmichael's professional portfolio"
+description: > # "Misty Dawn Carmichael"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -21,9 +21,3 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/mersty_dern
-  - title: github
-    url: https://github.com/mdawn
-  - title: linkedin
-    url: https://www.linkedin.com/in/mistydc
