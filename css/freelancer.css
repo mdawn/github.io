@@ -383,3 +383,26 @@ a:focus, a:hover, a:active {
 .img-circle {
   border-radius: 50%;
 }
+
+.masthead {
+  background-image: url("/img/new-background.jpg");
+  background-size: cover;
+  height: 440px;
+}
+
+.masthead .star-light:after {
+  content: "";
+}
+
+@media (min-width: 700px) {
+  .masthead {
+    height: 540px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .masthead {
+    /*background-image: url("/img/new-background.jpg");*/
+    height: 900px;
+  }
+}
