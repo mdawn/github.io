@@ -394,6 +394,10 @@ a:focus, a:hover, a:active {
   content: "";
 }
 
+.img-max-height {
+  max-height: 280px;
+}
+
 @media (min-width: 700px) {
   .masthead {
     height: 540px;
